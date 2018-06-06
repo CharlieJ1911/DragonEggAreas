@@ -41,7 +41,6 @@
                         <minimizeJar>true</minimizeJar>
                 </configuration>
                 <executions>
-
                     <execution>
                         <phase>package</phase>
                         <goals>
