@@ -1,0 +1,8 @@
+# DragonEggAreas
+# Developed by Chazmondo
+
+bad-regions:
+- 'spawn'
+- 'another_bad_area'
+
+reloaded: "&aConfiguration Reloaded."

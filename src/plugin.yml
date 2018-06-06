@@ -1,0 +1,5 @@
+name: DragonEggAreas
+version: ${project.version}
+main: ${project.groupId}.${project.artifactId}.DragonEggAreas
+author: Chazmondo
+softdepend: [WorldGuard]
